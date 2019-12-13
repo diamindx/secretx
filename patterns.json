@@ -27,9 +27,5 @@
     "square_access_token": "sqOatp-[0-9A-Za-z\\-_]{22}",
     "stripe_standard_api": "sk_live_[0-9a-zA-Z]{24}",
     "stripe_restricted_api": "rk_live_[0-9a-zA-Z]{24}",
-    "github_access_token": "[a-zA-Z0-9_-]*:[a-zA-Z0-9_\\-]+@github\\.com*",
-    "rsa_private_key": "-----BEGIN RSA PRIVATE KEY-----",
-    "ssh_dsa_private_key": "-----BEGIN DSA PRIVATE KEY-----",
-    "ssh_dc_private_key": "-----BEGIN EC PRIVATE KEY-----",
-    "pgp_private_block": "-----BEGIN PGP PRIVATE KEY BLOCK-----"
+    "github_access_token": "[a-zA-Z0-9_-]*:[a-zA-Z0-9_\\-]+@github\\.com*"
 }
